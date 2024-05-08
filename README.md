@@ -10,5 +10,5 @@ bam files and p-values from [Mod-p ID](https://github.com/RouhanifardLab/PsiNano
 
 ## Data Availability: nanopore DRS Data From Previous Work 
 (IVT) BioProject accession: [PRJNA947135](https://www.ncbi.nlm.nih.gov/bioproject/947135)  
-(Native HeLa) BioProject accession: [PRJNA777450](https://www.ncbi.nlm.nih.gov/bioproject/777450)
+(Native HeLa) BioProject accession: [PRJNA777450](https://www.ncbi.nlm.nih.gov/bioproject/777450)  
 (Native SH-SY5Y) BioProject accession: [PRJNA1092333](https://www.ncbi.nlm.nih.gov/bioproject/1092333)
